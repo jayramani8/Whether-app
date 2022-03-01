@@ -1,0 +1,22 @@
+.weather-night{
+background: linear-gradient(135deg, #3b4550, #5b4e61);
+
+}
+.weather-morning{
+background: linear-gradient(135deg, #cae288, #96bd3c);
+margin-top: 15px;
+border-radius: 15px;
+padding: 15px;
+}
+.weather-afternoon{
+background: linear-gradient(135deg, #f3c56e, #e27c1c);
+margin-top: 15px;   
+border-radius: 15px;
+padding: 15px;
+}
+.weather-evening{
+background: linear-gradient(135deg, #5a4baf, #2a09e7);
+margin-top: 15px;
+border-radius: 15px;
+padding: 15px;
+}
